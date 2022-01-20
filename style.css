@@ -1,0 +1,21 @@
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.hide {
+    display: none;
+}
+#input {
+    width: 30%;
+}
+
+.wrap {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:rgb(217, 255, 255);
+    
+}
